@@ -1,0 +1,174 @@
+{
+  "targets": [
+    {
+      "name": "Yoigo",
+      "url": "https://www.yoigo.com",
+      "method": "POST"
+    },
+    {
+      "name": "LineaDirecta",
+      "url": "https://www.lineadirecta.com/seguros-coche/ayuda/que-linea-directa-me-llame-gratis.html",
+      "method": "POST"
+    },
+    {
+      "name": "Finetwork",
+      "url": "https://www.finetwork.com",
+      "method": "POST"
+    },
+    {
+      "name": "Ptvtelecom",
+      "url": "https://www.ptvtelecom.com/landing-fibra-rrss/",
+      "method": "POST"
+    },
+    {
+      "name": "Vivamovil",
+      "url": "https://vivamovil.es/contacto/",
+      "method": "POST"
+    },
+    {
+      "name": "Acaciophone",
+      "url": "https://www.acaciophone.com",
+      "method": "POST"
+    },
+    {
+      "name": "Avatel",
+      "url": "https://avatel.es/holafibra-ahora-somos-avatel/",
+      "method": "POST"
+    },
+    {
+      "name": "Mundo-r",
+      "url": "https://mundo-r.com/es/tarifas/internet-en-casa",
+      "method": "POST"
+    },
+    {
+      "name": "Digi",
+      "url": "https://www.digimobil.es",
+      "method": "POST"
+    },
+    {
+      "name": "Olin",
+      "url": "https://olin.es/es/fibra/",
+      "method": "POST"
+    },
+    {
+      "name": "Adamo",
+      "url": "https://adamo.es/es/cobertura",
+      "method": "POST"
+    },
+    {
+      "name": "Populoos",
+      "url": "https://www.populoos.es/internet-movil/",
+      "method": "POST"
+    },
+    {
+      "name": "Fibralia",
+      "url": "https://fibralia.es/solicitud-de-servicios/",
+      "method": "POST"
+    },
+    {
+      "name": "Excom",
+      "url": "https://www.excom.es",
+      "method": "POST"
+    },
+    {
+      "name": "Genesis",
+      "url": "https://te-llamamos.genesis.es/user-details",
+      "method": "POST"
+    },
+    {
+      "name": "Pelayo",
+      "url": "https://www.pelayo.com/nosotros_te_llamamos/tellamamos",
+      "method": "POST"
+    },
+    {
+      "name": "Pepephone",
+      "url": "https://www.pepephone.com",
+      "method": "POST"
+    },
+    {
+      "name": "Telefono Jazztel",
+      "url": "https://www.telefonojazztel.es",
+      "method": "POST"
+    },
+    {
+      "name": "Naradigital",
+      "url": "https://www.naradigital.es/te-llamamos",
+      "method": "POST"
+    },
+    {
+      "name": "Lowi",
+      "url": "https://www.lowi.es/asistencia/",
+      "method": "POST"
+    },
+    {
+      "name": "Lavanguardia",
+      "url": "https://shopping.lavanguardia.com/callmeback/index/view/locale/es_ES",
+      "method": "POST"
+    },
+    {
+      "name": "Texascontrols",
+      "url": "https://texascontrols.com/te-llamamos",
+      "method": "POST"
+    },
+    {
+      "name": "Suitaprest",
+      "url": "https://suitaprest.com/te-llamamos-gratis/",
+      "method": "POST"
+    },
+    {
+      "name": "Ciberica",
+      "url": "https://ciberica.es/internet/#llamamos",
+      "method": "POST"
+    },
+    {
+      "name": "Masmovil",
+      "url": "https://www.masmovil.es",
+      "method": "POST"
+    },
+    {
+      "name": "Ciberica",
+      "url": "https://ciberica.es/internet/#llamamos",
+      "method": "POST"
+    },
+    {
+      "name": "workmeter",
+      "url": "https://www.workmeter.com/te-llamamos-2/",
+      "method": "POST"
+    },
+    {
+      "name": "pecriser",
+      "url": "https://www.pecriser.com/te-llamamos.html",
+      "method": "POST"
+    },
+    {
+      "name": "hipotecas100x100",
+      "url": "https://hipotecas100x100.com/te-llamamos.html",
+      "method": "POST"
+    },
+    {
+      "name": "voiper",
+      "url": "https://www.voiper.es",
+      "method": "POST"
+    },
+    {
+      "name": "microsohosilbo",
+      "url": "https://microsohosilbo.es/te-llamamos/",
+      "method": "POST"
+    },
+    {
+      "name": "linea15",
+      "url": "https://linea15.es/te-llamamos-contacto/",
+      "method": "POST"
+    },
+    {
+      "name": "mutualidad",
+      "url": "https://www.mutualidad.com/te-llamamos-chatbot-general/",
+      "method": "POST"
+    },
+    {
+      "name": "institutmacula",
+      "url": "https://www.institutmacula.com/es/formulario-de-llamadas/",
+      "method": "POST"
+    }
+  ]
+}
