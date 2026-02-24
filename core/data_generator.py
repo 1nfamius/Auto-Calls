@@ -53,10 +53,6 @@ def generate_value(field_name, input_type="text", user_number=None):
     if "email" in field:
         return fake.email()
 
-    # Número genérico
-    if input_type == "number":
-        return random.randint(1, 100)
-
     # Textarea o mensajes
     if input_type == "textarea" or "message" in field or "comment" in field:
         return fake.text(max_nb_chars=100)

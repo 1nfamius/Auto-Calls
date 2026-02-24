@@ -1,3 +1,10 @@
 requests
 beautifulsoup4
 faker
+datetime
+urlparse
+random
+time
+urljoin
+csv
+json

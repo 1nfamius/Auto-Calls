@@ -86,9 +86,9 @@
       "method": "POST"
     },
     {
-      "name": "Telefono Jazztel",
+      "name": "Jazztel",
       "url": "https://www.telefonojazztel.es",
-      "method": "POST"
+      "method": "GET"
     },
     {
       "name": "Naradigital",
@@ -111,11 +111,6 @@
       "method": "POST"
     },
     {
-      "name": "Ciberica",
-      "url": "https://ciberica.es/internet/#llamamos",
-      "method": "POST"
-    },
-    {
       "name": "Masmovil",
       "url": "https://www.masmovil.es",
       "method": "POST"
@@ -127,8 +122,8 @@
     },
     {
       "name": "workmeter",
-      "url": "https://www.workmeter.com/te-llamamos-2/",
-      "method": "POST"
+      "url": "https://www.workmeter.com/contacto/",
+      "method": "GET"
     },
     {
       "name": "pecriser",
@@ -146,11 +141,6 @@
       "method": "POST"
     },
     {
-      "name": "microsohosilbo",
-      "url": "https://microsohosilbo.es/te-llamamos/",
-      "method": "POST"
-    },
-    {
       "name": "linea15",
       "url": "https://linea15.es/te-llamamos-contacto/",
       "method": "POST"
@@ -163,6 +153,36 @@
     {
       "name": "institutmacula",
       "url": "https://www.institutmacula.com/es/formulario-de-llamadas/",
+      "method": "POST"
+    },
+    {
+      "name": "fibrix",
+      "url": "https://fibrix.es/dipi_popup_maker/popup-te-llamamos/",
+      "method": "POST"
+    },
+    {
+      "name": "aon",
+      "url": "https://www.aon.es/personales/seguro-salud/te-llamamos/",
+      "method": "POST"
+    },
+    {
+      "name": "ralarsa",
+      "url": "https://www.ralarsa.com/es/te-llamamos/",
+      "method": "POST"
+    },
+    {
+      "name": "grupomensaje",
+      "url": "https://www.grupomensaje.es/llamada-gratis/",
+      "method": "POST"
+    },
+    {
+      "name": "generalion",
+      "url": "https://www.generalion.es/tarificador/c2c",
+      "method": "POST"
+    },
+    {
+      "name": "jurislex",
+      "url": "https://www.jurislex.net/contacto/",
       "method": "POST"
     }
   ]
