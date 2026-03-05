@@ -1,4 +1,9 @@
 {
+  "webshare": {
+    "enabled": true,
+    "username": "TU_USUARIO",
+    "password": "TU_PASSWORD"
+  },
   "targets": [
     {
       "name": "Yoigo",
