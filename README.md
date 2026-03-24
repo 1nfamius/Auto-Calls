@@ -1,4 +1,5 @@
 Uso de la Aplicación
+
 1.1. La Aplicación te permite ceder tus datos personales a empresas asociadas para recibir información comercial de su parte. Solo puedes ceder tus propios datos personales, y debes proporcionar información precisa y veraz. Está terminantemente prohibido introducir los datos personales de terceros sin su consentimiento explícito y por escrito.
 
 1.2. Al utilizar la Aplicación, aceptas que la información que proporcionas será compartida con las empresas asociadas, y entiendes que estas empresas pueden utilizar tus datos personales para fines de marketing y publicidad.
